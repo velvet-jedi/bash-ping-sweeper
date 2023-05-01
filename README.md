@@ -8,4 +8,7 @@ ping each address and grep the line with succesful attempts of pings out, format
 ***
 the (&) symbol instead of the (;) ensures threading is carried out.....SO FAST
 
-### Usage ***
+### Usage 
+
+1. chmod +x ipsweep.sh
+2. ./ipsweep.sh a.b.c
